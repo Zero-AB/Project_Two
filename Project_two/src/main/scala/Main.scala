@@ -18,7 +18,7 @@ object Main {
     val spark = SparkSession.builder
       .master("local[*]")
       .appName("ClimateChange")
-      .enableHiveSupport()
+      //.enableHiveSupport()
       .getOrCreate()
 
     spark.sparkContext.setLogLevel("ERROR")
