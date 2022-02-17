@@ -2,7 +2,7 @@ import scala.io.StdIn._
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
 object login {
-  def UserLogin(spark: SparkSession): Unit = {
+  def UserLogin(spark: SparkSession): String = {
     print("Please enter your credentials:\nUsername:\t")
     val user = readLine()
     print("Password:\t")
