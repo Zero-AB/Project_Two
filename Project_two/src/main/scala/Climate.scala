@@ -2,15 +2,11 @@ import org.apache.spark.sql.{SparkSession, functions}
 import DataframeCreation._
 import login._
 
-
-
-
-object Main {
+object Climate {
 
   def main(args: Array[String]): Unit = {
 
     println("Hello")
-    UserLogin()
     // create a spark session
     // for Windows
     System.setProperty("hadoop.home.dir", "C:\\hadoop")
