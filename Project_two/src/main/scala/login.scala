@@ -1,4 +1,5 @@
 import scala.io.StdIn._
+
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.sql.functions._
 object login {
@@ -23,5 +24,6 @@ object login {
       println("Username does not exist")
       UserLogin(spark)
     }
+
   }
 }
