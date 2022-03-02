@@ -17,14 +17,17 @@ This project uses Spark and IntelliJ to create an application for predictive ana
 
 ## Features
 List of Features
-* 1
-* 2
-* 3
+* Created admin and guest accounts for project.
+* Created a user friendly menu to handle user inputs.
+* Query database using user input for dates and cities input by user. 
+* Query future temperature predictions using dates and cities input by user.
+* View machine learning model to show it's accuracy through menu option 7.
+* MySQL used in zeppelin to generate viusalizations of data.
 
 To do List
-* 1
-* 2
-* 3
+* Add additional cities to the data selected.
+* Add additional years to the data.
+* Create spark streaming capability to automatically add to the database.
 
 ## Getting Started
 
