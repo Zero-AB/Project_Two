@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project uses Spark and IntelliJ to create an application for predictive analysis using climate change data.
+This project uses Spark and IntelliJ to create an application for predictive analysis using climate change data along with supplying historical data based upon user input.
 
 ## Technologies Used
 
