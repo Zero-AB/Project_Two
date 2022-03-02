@@ -27,4 +27,4 @@ To do List
 ## Contributors
 
 ## License
-The project uses the following license: [<The Unlicense>](https://unlicense.org/)
+The project uses the following license: <The Unlicense>(https://unlicense.org/)
