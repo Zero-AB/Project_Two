@@ -24,7 +24,14 @@ To do List
 
 ## Usage
 
+After running main, you may select an option from the menu that is given. Options include querying a database for highest average temperature for a given month in a given city over 25 years, average temp and CO2 emissions per year, average temperature between given dates and given city, and a machine learning model to predict future temperatures. 
+
 ## Contributors
+
+Jacob Monks
+Deving Clay
+Betty Chou
+Diane Clarke
 
 ## License
 The project uses the following license: [The Unlicense](https://unlicense.org/)
